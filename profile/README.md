@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/iobend-logo.png" alt="IOBend" width="180"/>
+<img src="../assets/iobend-logo.png" alt="IOBend" width="180"/>
 
 # Unified Developer Experience Platform & Ecosystem
 
