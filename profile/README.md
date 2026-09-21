@@ -12,7 +12,7 @@
 
 [![Website](https://img.shields.io/badge/Website-iobend.com-0A66FF?style=for-the-badge)](https://www.iobend.com)
 [![X](https://img.shields.io/badge/X-@iobenddev-111111?style=for-the-badge&logo=x)](https://x.com/iobenddev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-IOBend-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/iobend/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-IOBend-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/company/iobend/](https://www.linkedin.com/in/iobend/))
 
 <br/>
 
